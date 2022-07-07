@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "name": "0707",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu15903475789/hellowold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liu15903475789/hellowold/issues"
+  },
+  "homepage": "https://github.com/liu15903475789/hellowold#readme",
+  "description": ""
+}
